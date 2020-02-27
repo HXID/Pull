@@ -1,10 +1,5 @@
-//
-//  ViewController.m
-//  pull
-//
-//  Created by test on 2020/2/27.
-//  Copyright © 2020 test. All rights reserved.
-//
+
+
 
 #import "ViewController.h"
 
@@ -17,6 +12,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     //我是傻逼
+    //我是新加的傻逼
+    
 }
 
 
